@@ -35,9 +35,9 @@ Make sure to add username and password for the mysql database connection
 python manage.py runserver
 
 
-How to Use the Application
-Signup: Navigate to /signup/ to create an account. Provide a username, email, password, and role.
-Login: Navigate to /login/ to log in with your credentials. Redirects to the appropriate dashboard based on the user role.
-Admin Dashboard: Accessible to users with the role Admin. View all users and posts in tabular format.
-Moderator Dashboard: Accessible to users with the role Moderator. View all users categorized by role.
-User Dashboard: Accessible to users with the role User. View all posts and create new ones.
+How to Use the Application	
+Signup:	Navigate to /signup/ to create an account. Provide a username, email, password, and role.
+Login:	Navigate to /login/ to log in with your credentials. Redirects to the appropriate dashboard based on the user role.
+Admin Dashboard:	Accessible to users with the role Admin. View all users and posts in tabular format.
+Moderator Dashboard:	Accessible to users with the role Moderator. View all users categorized by role.
+User Dashboard:	Accessible to users with the role User. View all posts and create new ones.
