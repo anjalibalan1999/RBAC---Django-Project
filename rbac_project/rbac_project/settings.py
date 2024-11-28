@@ -79,8 +79,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'rbac',  # Replace with your database name
-        'USER': 'root',  # Replace with your MySQL username
-        'PASSWORD': 'anju@123',  # Replace with your MySQL password
+        'USER': '',  # Replace with your MySQL username
+        'PASSWORD': '',  # Replace with your MySQL password
         'HOST': 'localhost',
         'PORT': '3306',
     }
